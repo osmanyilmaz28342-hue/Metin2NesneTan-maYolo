@@ -1,0 +1,5 @@
+opencv-python>=4.8
+numpy>=1.24
+mss>=9.0
+pywin32>=306
+ultralytics>=8.0
